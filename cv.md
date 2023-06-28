@@ -7,7 +7,6 @@ Skype:         live:endronio
 Linkedin     linkedin.com/in/andrey-kondrusevich-2825031aa
 	      
 
-
 	Objective
 
 Applying for a position of a Junior Python Developer
