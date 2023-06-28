@@ -1,1 +1,1 @@
-# rsschool-c
+# rsschool-cv
